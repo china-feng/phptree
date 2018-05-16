@@ -1,0 +1,17 @@
+{
+    "name": "china-feng/phptree",
+    "description": "php tree",
+    "license": "apacha-2.0",
+    "authors": [
+        {
+            "name": "Junqiang.G",
+            "email": "1140713834@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "phptree\\": "src"
+        }
+    }
+}
