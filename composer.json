@@ -8,8 +8,9 @@
             "email": "1140713834@qq.com"
         }
     ],
-	"minimum-stability":"dev",
-    "require": {},
+    "require": {
+		"topthink/framework": "~5.1.7"
+    },
     "autoload": {
         "psr-4": {
             "phptree\\": "src"
